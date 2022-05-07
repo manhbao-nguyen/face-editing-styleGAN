@@ -1,0 +1,13 @@
+# Specific Folders
+**.png
+**.jpg
+test_proj
+
+# General (Python)
+*egg-info
+*.pyc
+.env
+.vscode
+
+# Submission
+**.zip
